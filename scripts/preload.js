@@ -26,13 +26,15 @@ function preload() {
   
   /*** SONS ***/
   somDoPulo = loadSound('sons/somPulo.mp3');
-  gg = loadSound('sons/GameOver.mp3');
+  
   gc = loadSound('sons/moeda.mp3');
   gameover = loadImage('imagens/assets/game-over.png');
   trilhaSonora = loadSound('sons/trilha_jogo.mp3');
   somEntrada = loadSound('sons/entrada.mp3');
   somPerdeVida = loadSound('sons/hit.wav');
   somGanhaVida = loadSound('sons/vida.wav');
+  
+  gg = loadSound('sons/GameOver.mp3');
 
   /*** INIMIGOS ***/
   imagemInimigo = loadImage('imagens/inimigos/gotinha.png');
