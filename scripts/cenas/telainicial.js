@@ -1,6 +1,6 @@
 class TelaInicial {
   constructor(){
-    somEntrada.play();
+  
   }
   
   draw(){
