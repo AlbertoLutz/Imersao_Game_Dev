@@ -26,7 +26,7 @@ function preload() {
   
   /*** SONS ***/
   somDoPulo = loadSound('sons/somPulo.mp3');
-  gg = loadSound('sons/GameOver.wav');
+  gg = loadSound('sons/GameOver.mp3');
   gc = loadSound('sons/moeda.mp3');
   gameover = loadImage('imagens/assets/game-over.png');
   trilhaSonora = loadSound('sons/trilha_jogo.mp3');
